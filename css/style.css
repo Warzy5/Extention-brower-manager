@@ -1,0 +1,30 @@
+body {
+    background-color: #EBF2FC;
+}
+
+
+.card {
+    height: 200px;
+    width: 382px;
+    background-color: white;
+}
+
+.card-Info {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 16px;
+}
+
+/* p {
+    font-size: small;
+} */
+
+
+.card-purpose {
+   padding-left: 16px;
+}
+
+h1 {
+    font-size: x-large;
+}
